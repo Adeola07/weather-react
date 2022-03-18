@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 80px;
+  font-size: 60px;
+}
+.weather {
+  text-align: center;
+  padding-top: 40px;
+}
+.displayWeather {
+  list-style: none;
+  font-size: 30px;
+}
